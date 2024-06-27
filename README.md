@@ -48,8 +48,3 @@ Notes:
 You'll need to replace categories_file with the actual path to your CSV file containing item data.
 This script assumes a specific format for the categories.csv file (two columns: Item Name and Category). You might need to adjust the code if your file format differs.
 The pandas library is used optionally for a more convenient preview of the generated data. If you don't have pandas installed, remove the last line in the if __name__ == "__main__": block.
-
-share
-
-
-more_vert
