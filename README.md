@@ -1,5 +1,5 @@
 ### Project Name :
-  #### Random sample data
+  #### Randomized sample data
 ### Description :
    This Python script generates a monthly sales report in CSV format, simulating random weekly sales for each product listed in a provided "categories.csv" file.It incorporates functions for:
 
