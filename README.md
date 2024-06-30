@@ -26,7 +26,45 @@
 #### Input File
 - The script expects a CSV file named "categories.csv" in the same directory.
 - which is provided in the Internship_assignment repository.
-  
+
+
+# Documentation
+### 1. Imports:
+- random: Used for generating random sales values.
+- csv: Used for reading and writing CSV files.
+- from datetime import date: Used for getting the current date.
+
+### 2. Functions:
+#### random_value(inventory):
+- Takes the initial inventory level as input.
+- Creates an empty list sales to store weekly sales.
+
+- Iterates 4 times (representing 4 weeks):
+- Generates a random sale value between 0 and the current inventory using random.randint().
+- Subtracts the sale value from the inventory (inventory -= sale).
+- Appends the sale value to the sales list.
+- Returns the list of weekly sales.
+#### create_csv():
+- Gets the current date in "%d/%m/%Y" format using date.today().strftime("%d/%m/%Y").
+- Opens two CSV files:
+ "categories.csv" in read mode ('r').
+  A new file named "monthly_sales_report - {date}.csv" (formatted using today's date) in write mode ('w').
+- Creates CSV reader and writer objects.
+- Skips the header row of the "categories.csv" using next(reader).
+- Writes the report header to the new CSV file:
+ "Period: {start_date} - {end_date}" (using the current date).
+ "No", "Productname", "categories", "Initialinventory", "week #1", "week #2", "week #3", "week #4".
+- Iterates through each row in the "categories.csv" file:
+- Extracts product details: No, Productname, categories, Initialinventory.
+- Converts Initialinventory to an integer.
+- Generates weekly sales using random_value(inventory).
+- Writes a new row to the report CSV combining product information and weekly sales.
+- Closes the CSV files.
+### 3. Report Generation and Printing:
+
+- Opens the newly created report CSV file in read mode.
+- Reads the entire contents of the file using line.read().
+- Prints the report contents (likely for verification purposes).
 
 
 
