@@ -1,102 +1,102 @@
-Period: 30/06/2024 - 30/06/2024
+Period: 2024-06-30 - 2024-06-30
 No,Productname,categories,Initialinventory,week #1,week #2,week #3,week #4
-1,Ballpoint Pens,Writing Instruments,250,168,60,18,4
-2,Gel Pens,Writing Instruments,250,235,7,2,6
-3,Fountain Pens,Writing Instruments,250,81,12,21,65
-4,Mechanical Pencils,Writing Instruments,250,52,101,14,78
-5,Wooden Pencils,Writing Instruments,250,5,133,87,2
-6,Highlighters,Writing Instruments,250,249,0,1,0
-7,Markers,Writing Instruments,250,113,74,54,4
-8,Permanent Markers,Writing Instruments,250,110,79,29,32
-9,Whiteboard Markers,Writing Instruments,250,47,76,121,0
-10,Colored Pencils,Writing Instruments,250,88,114,25,17
-11,Crayons,Writing Instruments,250,47,80,116,0
-12,Fine Liners,Writing Instruments,250,192,14,8,34
-13,Erasers,Writing Instruments,250,91,51,82,19
-14,Pencil Sharpeners,Writing Instruments,250,103,28,83,29
-15,Correction Tape,Writing Instruments,100,16,41,34,9
-16,Correction Fluid,Writing Instruments,100,69,6,21,0
-17,Rulers,Measuring Tools,50,34,15,1,0
-18,Protractors,Measuring Tools,50,2,35,10,0
-19,Compasses,Measuring Tools,50,19,15,0,13
-20,Set Squares,Measuring Tools,50,50,0,0,0
-21,Drafting Stencils,Drawing Tools,50,37,4,1,7
-22,Graph Paper,Paper Products,75,14,34,9,17
-23,Notebooks,Paper Products,75,43,19,3,1
-24,Spiral Notebooks,Paper Products,75,29,38,2,2
-25,Sticky Notes,Paper Products,75,27,40,2,2
-26,Index Cards,Paper Products,75,3,2,57,7
-27,Envelopes,Paper Products,75,39,4,6,24
-28,Manila Folders,Filing Supplies,25,25,0,0,0
-29,Hanging File Folders,Filing Supplies,25,14,4,3,1
-30,Expanding Files,Filing Supplies,25,1,20,2,2
-31,File Dividers,Filing Supplies,25,21,3,1,0
-32,File Binders,Filing Supplies,25,16,9,0,0
-33,Lever Arch Files,Filing Supplies,25,5,19,0,0
-34,Paper Clips,Fasteners,150,46,7,62,20
-35,Binder Clips,Fasteners,150,49,98,1,1
-36,Staplers,Fasteners,150,79,6,48,12
-37,Staples,Fasteners,150,8,71,26,43
-38,Staple Removers,Fasteners,150,17,91,17,1
-39,Rubber Bands,Fasteners,150,35,63,4,17
-40,Thumb Tacks,Fasteners,150,133,7,3,4
-41,Push Pins,Fasteners,150,132,4,10,1
-42,Drawing Pins,Fasteners,150,36,76,30,1
-43,Glue Sticks,Adhesives,200,72,95,1,12
-44,Liquid Glue,Adhesives,200,65,73,43,11
-45,Double-sided Tape,Adhesives,200,167,30,0,2
-46,Masking Tape,Adhesives,200,65,0,44,58
-47,Transparent Tape,Adhesives,200,74,2,91,18
-48,Packing Tape,Adhesives,200,112,7,42,30
-49,Scissors,Cutting Tools,60,5,38,12,1
-50,Craft Knives,Cutting Tools,60,22,38,0,0
-51,Cutting Mats,Cutting Tools,60,21,27,7,4
-52,Paper Cutters,Cutting Tools,60,3,55,1,0
-53,Sticky Tack,Adhesives,75,24,36,6,0
-54,Hole Punchers,Office Supplies,50,28,17,1,3
-55,Paper Trimmers,Cutting Tools,40,35,0,1,4
-56,Desk Organizers,Desk Accessories,60,31,17,11,1
-57,Pencil Holders,Desk Accessories,60,2,3,19,26
-58,Tape Dispensers,Desk Accessories,60,53,1,5,0
-59,Letter Openers,Desk Accessories,60,48,9,2,0
-60,Desk Calendars,Desk Accessories,60,46,4,7,0
-61,Whiteboards,Boards & Easels,15,13,0,1,1
-62,Whiteboard Erasers,Boards & Easels,15,9,5,0,1
-63,Cork Boards,Boards & Easels,15,15,0,0,0
-64,Bulletin Boards,Boards & Easels,15,5,10,0,0
-65,Flip Charts,Boards & Easels,15,2,4,1,5
-66,Desk Lamps,Desk Accessories,7,2,5,0,0
-67,File Boxes,Filing Supplies,12,11,0,1,0
-68,Document Holders,Filing Supplies,12,8,4,0,0
-69,Pen Refills,Writing Instruments,150,149,0,1,0
-70,Planner Notebooks,Paper Products,60,15,21,10,2
-71,Address Books,Paper Products,60,8,41,6,0
-72,Stamps,Office Supplies,75,39,25,6,5
-73,Ink Pads,Office Supplies,75,75,0,0,0
-74,Envelop Sealers,Office Supplies,75,28,42,4,0
-75,Label Makers,Office Supplies,75,65,2,3,0
-76,Labels,Office Supplies,75,66,8,1,0
-77,Rubber Stamps,Office Supplies,75,15,23,32,0
-78,Paper Weights,Desk Accessories,25,18,5,2,0
-79,Desk Trays,Desk Accessories,25,20,5,0,0
-80,Clipboards,Office Supplies,55,24,14,5,1
-81,Business Card Holders,Office Supplies,55,0,28,3,18
-82,Badge Holders,Office Supplies,55,29,2,2,6
-83,ID Card Holders,Office Supplies,55,20,32,0,1
-84,Laminating Pouches,Office Supplies,55,23,19,9,2
-85,Laminators,Office Supplies,55,48,4,1,0
-86,Shredders,Office Supplies,55,15,34,1,3
-87,Label Tapes,Office Supplies,55,19,8,24,4
-88,Postage Scales,Office Supplies,55,28,24,0,2
-89,Mouse Pads,Desk Accessories,30,14,12,2,0
-90,Desk Pads,Desk Accessories,30,16,12,1,0
-91,Computer Cleaning Kits,Cleaning Supplies,30,23,1,5,1
-92,Screen Wipes,Cleaning Supplies,30,23,0,3,3
-93,Keyboard Cleaners,Cleaning Supplies,30,9,7,6,4
-94,Printer Paper,Paper Products,500,450,40,0,10
-95,Photo Paper,Paper Products,500,241,134,10,46
-96,Fax Paper Rolls,Paper Products,500,7,368,24,81
-97,Business Envelopes,Paper Products,500,365,72,28,34
-98,A4 Paper,Paper Products,500,368,127,2,2
-99,Legal Pads,Paper Products,500,19,79,72,298
-100,Report Covers,Paper Products,500,347,70,17,17
+1,Ballpoint Pens,Writing Instruments,250,2,71,98,37
+2,Gel Pens,Writing Instruments,250,161,48,28,4
+3,Fountain Pens,Writing Instruments,250,204,7,36,1
+4,Mechanical Pencils,Writing Instruments,250,121,90,16,2
+5,Wooden Pencils,Writing Instruments,250,229,18,2,0
+6,Highlighters,Writing Instruments,250,141,71,37,1
+7,Markers,Writing Instruments,250,219,30,1,0
+8,Permanent Markers,Writing Instruments,250,159,61,23,3
+9,Whiteboard Markers,Writing Instruments,250,147,64,35,0
+10,Colored Pencils,Writing Instruments,250,158,92,0,0
+11,Crayons,Writing Instruments,250,218,4,1,23
+12,Fine Liners,Writing Instruments,250,102,125,22,1
+13,Erasers,Writing Instruments,250,56,13,12,150
+14,Pencil Sharpeners,Writing Instruments,250,185,6,21,0
+15,Correction Tape,Writing Instruments,100,13,54,24,1
+16,Correction Fluid,Writing Instruments,100,68,12,13,0
+17,Rulers,Measuring Tools,50,9,28,8,4
+18,Protractors,Measuring Tools,50,33,9,5,1
+19,Compasses,Measuring Tools,50,47,0,2,1
+20,Set Squares,Measuring Tools,50,17,2,14,8
+21,Drafting Stencils,Drawing Tools,50,13,14,19,3
+22,Graph Paper,Paper Products,75,55,20,0,0
+23,Notebooks,Paper Products,75,28,18,18,4
+24,Spiral Notebooks,Paper Products,75,57,2,12,0
+25,Sticky Notes,Paper Products,75,48,24,2,1
+26,Index Cards,Paper Products,75,54,21,0,0
+27,Envelopes,Paper Products,75,74,0,0,0
+28,Manila Folders,Filing Supplies,25,14,4,4,0
+29,Hanging File Folders,Filing Supplies,25,12,11,0,0
+30,Expanding Files,Filing Supplies,25,8,12,1,0
+31,File Dividers,Filing Supplies,25,15,5,4,1
+32,File Binders,Filing Supplies,25,24,1,0,0
+33,Lever Arch Files,Filing Supplies,25,18,0,4,0
+34,Paper Clips,Fasteners,150,118,19,4,6
+35,Binder Clips,Fasteners,150,62,57,28,3
+36,Staplers,Fasteners,150,10,114,1,4
+37,Staples,Fasteners,150,90,19,12,13
+38,Staple Removers,Fasteners,150,60,6,78,0
+39,Rubber Bands,Fasteners,150,79,60,5,4
+40,Thumb Tacks,Fasteners,150,111,19,7,5
+41,Push Pins,Fasteners,150,76,8,28,25
+42,Drawing Pins,Fasteners,150,147,1,2,0
+43,Glue Sticks,Adhesives,200,47,121,26,2
+44,Liquid Glue,Adhesives,200,148,35,14,1
+45,Double-sided Tape,Adhesives,200,89,42,56,4
+46,Masking Tape,Adhesives,200,125,72,1,1
+47,Transparent Tape,Adhesives,200,6,82,79,32
+48,Packing Tape,Adhesives,200,62,123,3,0
+49,Scissors,Cutting Tools,60,30,20,4,2
+50,Craft Knives,Cutting Tools,60,16,22,1,0
+51,Cutting Mats,Cutting Tools,60,4,51,3,1
+52,Paper Cutters,Cutting Tools,60,46,7,6,0
+53,Sticky Tack,Adhesives,75,28,37,0,8
+54,Hole Punchers,Office Supplies,50,20,10,11,4
+55,Paper Trimmers,Cutting Tools,40,31,4,5,0
+56,Desk Organizers,Desk Accessories,60,53,3,0,3
+57,Pencil Holders,Desk Accessories,60,8,11,28,10
+58,Tape Dispensers,Desk Accessories,60,39,12,6,1
+59,Letter Openers,Desk Accessories,60,1,26,19,14
+60,Desk Calendars,Desk Accessories,60,43,5,0,7
+61,Whiteboards,Boards & Easels,15,0,6,6,1
+62,Whiteboard Erasers,Boards & Easels,15,3,9,3,0
+63,Cork Boards,Boards & Easels,15,10,0,0,1
+64,Bulletin Boards,Boards & Easels,15,12,0,2,1
+65,Flip Charts,Boards & Easels,15,12,0,1,1
+66,Desk Lamps,Desk Accessories,7,7,0,0,0
+67,File Boxes,Filing Supplies,12,6,6,0,0
+68,Document Holders,Filing Supplies,12,0,8,1,2
+69,Pen Refills,Writing Instruments,150,118,11,16,2
+70,Planner Notebooks,Paper Products,60,36,20,1,2
+71,Address Books,Paper Products,60,39,12,1,8
+72,Stamps,Office Supplies,75,2,69,0,3
+73,Ink Pads,Office Supplies,75,21,33,14,4
+74,Envelop Sealers,Office Supplies,75,56,3,10,6
+75,Label Makers,Office Supplies,75,54,14,1,3
+76,Labels,Office Supplies,75,66,2,5,1
+77,Rubber Stamps,Office Supplies,75,35,23,5,0
+78,Paper Weights,Desk Accessories,25,10,5,7,3
+79,Desk Trays,Desk Accessories,25,2,9,4,1
+80,Clipboards,Office Supplies,55,44,7,1,1
+81,Business Card Holders,Office Supplies,55,49,0,6,0
+82,Badge Holders,Office Supplies,55,33,10,8,2
+83,ID Card Holders,Office Supplies,55,38,2,0,5
+84,Laminating Pouches,Office Supplies,55,22,32,1,0
+85,Laminators,Office Supplies,55,18,33,1,2
+86,Shredders,Office Supplies,55,53,2,0,0
+87,Label Tapes,Office Supplies,55,32,19,1,0
+88,Postage Scales,Office Supplies,55,21,25,8,1
+89,Mouse Pads,Desk Accessories,30,10,9,1,1
+90,Desk Pads,Desk Accessories,30,23,7,0,0
+91,Computer Cleaning Kits,Cleaning Supplies,30,22,6,0,2
+92,Screen Wipes,Cleaning Supplies,30,23,3,4,0
+93,Keyboard Cleaners,Cleaning Supplies,30,8,15,0,2
+94,Printer Paper,Paper Products,500,499,1,0,0
+95,Photo Paper,Paper Products,500,177,147,40,58
+96,Fax Paper Rolls,Paper Products,500,6,77,400,7
+97,Business Envelopes,Paper Products,500,157,290,37,11
+98,A4 Paper,Paper Products,500,35,138,317,3
+99,Legal Pads,Paper Products,500,339,106,11,19
+100,Report Covers,Paper Products,500,317,121,60,1

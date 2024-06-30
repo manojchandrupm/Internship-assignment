@@ -1,6 +1,6 @@
 import random 
 import csv
-from datetime import date
+import datetime
 
 def random_value(inventory):
     sales=[]
@@ -9,10 +9,10 @@ def random_value(inventory):
         inventory -= sale
         sales.append(sale)
     return sales
-    
+today = datetime.date.today()    
 def create_csv():
-     today = date.today().strftime("%d/%m/%Y")
-     with open("categories.csv", 'r') as csvfile,open(f"monthly_sales_report - {date.today().strftime('%Y-%m-%d')}.csv", 'w', newline='') as outfile:
+     
+     with open("categories.csv", 'r') as csvfile,open(f"monthly_sales_report - {today}.csv", 'w', newline='') as outfile:
         reader = csv.reader(csvfile)
         writer = csv.writer(outfile)
         next(reader)
@@ -27,5 +27,5 @@ def create_csv():
             sales = random_value(inventory)
             writer.writerow([No,Productname,categories,Initialinventory] + sales)
 create_csv()
-line = open(f"monthly_sales_report - {date.today().strftime('%Y-%m-%d')}.csv")
+line = open(f"monthly_sales_report - {today}.csv")
 print(line.read())
