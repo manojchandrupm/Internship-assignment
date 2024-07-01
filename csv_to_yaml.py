@@ -1,13 +1,12 @@
 import csv
-import Yaml
+import yaml
 
-def convert():
-    with open("monthly_sales_report.csv","r") as infile:
-        readfile=csv.DictReader(infile)
+with open("monthly_sales_report.csv","r") as infile:
+    readfile=csv.reader(infile)
 
-    data =list(readfile)
+    data =[]
+    for row in readfile:
+        data.append(row)
         
-    with open("monthly_sales_report.yaml","w") as outfile:
-        Yaml.dump(data,outfile)
-
-convert()
+with open("monthly_sales_report.yaml","w") as outfile:
+    yaml.dump(data,outfile)
