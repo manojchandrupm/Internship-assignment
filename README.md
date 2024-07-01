@@ -87,6 +87,18 @@
 - Current_inventory (calculated)
 - Restock_inventory (recommended restock quantity)
 
+#### Running the Script:
+
+- Save the code as a Python file (e.g., restock_generator.py).
+- Open a terminal or command prompt and navigate to the directory where you saved the file.
+- Execute the script using the python command:
+#### Output:
+- The script will create a new CSV file named inventory_restock.csv in the same directory.
+- This CSV file will contain the  suggesion of  a restock quantity based on the total sales. 
+#### Input File
+- The script expects a CSV file named "monthly_sales_report.csv" in the same directory.
+- which is provided in the Internship_assignment repository.
+
 
 
 
