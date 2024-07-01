@@ -99,6 +99,23 @@
 - The script expects a CSV file named "monthly_sales_report.csv" in the same directory.
 - which is provided in the Internship_assignment repository.
 
+## Data Wrangling (converting from CSV to YAML)
+This Python script converts a CSV file named monthly_sales_report.csv to a YAML file named monthly_sales_report.yaml. The script reads the CSV data, preserving the row structure, and writes it to the YAML file.
+
+#### Requirements
+- Python 3 (tested with version 3.x)
+- csv module (included in the standard library)
+- PyYAML library (install using pip install pyyaml)
+
+#### Installation
+- If you don't have PyYAML installed, open a terminal or command prompt and run:
+  `pip install pyyaml`
+#### Running the Script:  
+- Save the code as a Python file (e.g., csv_to_yaml.py).
+#### Usage
+- Place monthly_sales_report.csv and csv_to_yaml.py in the same directory.
+- Run the script from the command line.
+- This will create a new file named monthly_sales_report.yaml in the same directory containing the converted data.
 
 
 
