@@ -65,7 +65,7 @@
 - Opens the newly created report CSV file in read mode.
 - Reads the entire contents of the file using line.read().
 - Prints the report contents (likely for verification purposes).
-
+------------------------------------------------------------------------------------------------
 ## Assignment 2:
   #### Title: Monthly Sales Report and Inventory Restock Automation (assignment_2.py)
 
@@ -98,7 +98,7 @@
 #### Input File
 - The script expects a CSV file named "monthly_sales_report.csv" in the same directory.
 - which is provided in the Internship_assignment repository.
-
+-----------------------------------------------------------------------------------------------------
 ## Data Wrangling (converting from CSV to YAML)
 This Python script converts a CSV file named monthly_sales_report.csv to a YAML file named monthly_sales_report.yaml. The script reads the CSV data, preserving the row structure, and writes it to the YAML file.
 
