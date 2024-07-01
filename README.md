@@ -1,5 +1,5 @@
-### Project Name :
-  #### Randomized sample data (assignment_1.py)
+## Assignment 1:
+  #### Tittle: Randomized sample data (assignment_1.py)
 ### Description :
    This Python script generates a monthly sales report in CSV format, simulating random weekly sales for each product listed in a provided "categories.csv" file.It incorporates functions for:
 
@@ -28,7 +28,7 @@
 - which is provided in the Internship_assignment repository.
 
 
-# Documentation
+### Documentation
 ### 1. Imports:
 - random: Used for generating random sales values.
 - csv: Used for reading and writing CSV files.
@@ -65,6 +65,27 @@
 - Opens the newly created report CSV file in read mode.
 - Reads the entire contents of the file using line.read().
 - Prints the report contents (likely for verification purposes).
+
+## Assignment 2:
+  #### Title: Monthly Sales Report and Inventory Restock Automation (assignment_2.py)
+
+### Description:
+
+- This Python script automates the creation of a new CSV file named "inventory_restock.csv" based on data from an existing "monthly_sales_report.csv" file. It calculates total sales for each product, updates current inventory levels, and suggests a restock quantity based on the total sales.
+
+### Features:
+
+- Reads sales data from "monthly_sales_report.csv".
+- Calculates total sales per product for the month.
+- Updates current inventory by subtracting total sales.
+- Recommends a restock quantity equal to the total sales (adjustable).
+- Creates a new "inventory_restock.csv" file with the following columns:
+- Date (automatically set to the current date)
+- No ,Productname ,Categories ,Initialinventory
+- Week #1 ,Week #2 ,Week #3 ,Week #4 (copied from "monthly_sales_report.csv")
+- Total_sales (calculated)
+- Current_inventory (calculated)
+- Restock_inventory (recommended restock quantity)
 
 
 
